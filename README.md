@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-End Developer
 -------------------
 
-With a robust seven-plus years in the IT industry, I initially excelled as a Test Engineer for five years before pivoting to Frontend Development, where I've accrued two years of hands-on experience. My journey underscores adaptability, a keen eye for quality, and a commitment to delivering seamless, user-centric web applications.
+With over six years in the IT industry, I initially excelled as a Test Engineer for four years before pivoting to Frontend Development, where I've accrued two years of hands-on experience. My journey underscores adaptability, a keen eye for quality, and a commitment to delivering seamless, user-centric web applications.
 
 * 🌍  I'm based in Coimbatore, Tamil Nadu, India
 * ✉️  You can contact me at [manoj.jayapprakash@gmail.com](mailto:manoj.jayapprakash@gmail.com)
